@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace weixin.weixin.mp.Helper
 {
-    class SHA1UtilHelper
+    public class SHA1UtilHelper
     {
     }
 }
