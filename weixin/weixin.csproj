@@ -40,9 +40,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="weixin.mp\Class1.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="weixin.mp\" />
     <Folder Include="weixin\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
